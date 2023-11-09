@@ -17,7 +17,6 @@ public class T04Ejercicio14 {
       System.out.println("No es multiplo de 5.");
     }
 
-
     sc.close();
   }
 }
