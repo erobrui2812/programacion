@@ -12,10 +12,10 @@ public class T05Ejercicio34 {
     System.out.print("Introduzca otro número: ");
     int segundoNum = sc.nextInt();
 
-    String primerCad = (int) primerNum;
+    String primerCad = ""+primerNum;
     int largoPrimer = primerCad.length();
 
-    String segundoCad = (int) segundoNum;
+    String segundoCad = ""+segundoNum;
     int largoSegundo = segundoCad.length();
     
     String cadPrimer = "";
