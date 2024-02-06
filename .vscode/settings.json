@@ -1,7 +1,10 @@
 {
   "java.project.sourcePaths": [
-    "04_Sentencias_condicionales\\ejemplo",
-    "04_Sentencias_condicionales\\ejercicio",
-    "04_Sentencias_condicionales\\ejemplo\\ejercicios"
-  ]
+    "09_POO/ejemplo",
+    "04_Sentencias_condicionales/ejercicio",
+    "04_Sentencias_condicionales/ejemplo/ejercicios",
+    "04_Sentencias_condicionales/ejemplo",
+    "JuegoSieteYMedia"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }

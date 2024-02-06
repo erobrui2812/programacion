@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "ejemplo",
+    "ejercicio",
+    "ejemplo\\ejercicios"
+  ]
+}
