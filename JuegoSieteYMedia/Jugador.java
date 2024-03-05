@@ -1,3 +1,11 @@
+// package SieteYMedia;
+
+/**
+ * Clase Jugador para el juego de las Siete y Media
+ * @author Elías Robles
+ * @author Luis Godino
+ */
+
 public class Jugador {
   private double saldo;
   private double apuestaActual;
