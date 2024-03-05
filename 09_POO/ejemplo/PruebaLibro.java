@@ -9,7 +9,7 @@ public class PruebaLibro {
     lib.numeroDePAg = 490;
 
     System.out.println("IBN: "+lib.titulo);
-    System.out.println("Autor: "lib.autor);ç
+    System.out.println("Autor: "+lib.autor);
     System.out.println();
   }
 }
