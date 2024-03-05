@@ -1,3 +1,11 @@
+// package SieteYMedia;
+
+/**
+ * Clase Cartas para el juego de las Siete y Media
+ * @author Elías Robles
+ * @author Luis Godino
+ */
+
 public class Crupier extends Jugador{
   private Baraja baraja;
 
