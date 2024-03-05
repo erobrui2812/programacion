@@ -1,7 +1,7 @@
 // package SieteYMedia;
 
 /**
- * Clase Cartas para el juego de las Siete y Media
+ * Clase Crupier para el juego de las Siete y Media
  * @author Elías Robles
  * @author Luis Godino
  */
