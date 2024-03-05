@@ -1,3 +1,11 @@
+// package SieteYMedia;
+
+/**
+ * Clase Main JuegoSieteYMedia para el juego de las Siete y Media
+ * @author Elías Robles
+ * @author Luis Godino
+ */
+
 public class JuegoSieteYMedia {
   public static void main(String[] args) {
     Baraja baraja = new Baraja();
