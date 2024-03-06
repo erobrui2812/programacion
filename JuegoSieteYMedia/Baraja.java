@@ -9,9 +9,9 @@
 public class Baraja {
 
   // Atributos
-  public static Carta[] cartas;
-  public static int posCartas;
-  public int length = 40;
+  protected static Carta[] cartas;
+  protected static int posCartas;
+  protected static int length = 40;
 
   // Constructor
   public Baraja() {
