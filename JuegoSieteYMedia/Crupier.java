@@ -18,6 +18,7 @@ public class Crupier extends Jugador{
 
     while (getValorMano() < 7.5) {
         agarrarCarta(); // El crupier toma cartas mientras su mano sea menor a 7.5
+        System.out.println("El Crupier ha sacado un " + Crupier.manoCartas[posMano - 1].toString());
     }
 }
 

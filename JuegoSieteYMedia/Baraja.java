@@ -25,7 +25,7 @@ public class Baraja {
     Carta carta;
 
     for (int i = 0; i < cartas.length; i++) {
-      posAleatoria = (int) (Math.random() * 40);
+      posAleatoria = (int) (Math.random() * length);
 
       carta = cartas[i];
       cartas[i] = cartas[posAleatoria];
